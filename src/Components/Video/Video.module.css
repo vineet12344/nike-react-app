@@ -1,0 +1,11 @@
+.video {
+  padding: 6rem;
+
+}
+
+.video video {
+  object-fit: cover;
+  min-width: 100%;
+  border-radius: 0.4rem;
+  box-shadow: 5px 1px 20px 6px gray;
+}

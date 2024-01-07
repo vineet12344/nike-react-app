@@ -1,0 +1,20 @@
+.button {
+  all: unset;
+  padding: 6px 16px;
+  background-color: rgb(220, 8, 8);
+  height: 32px;
+  color: white;
+  font-weight: 500;
+  border-radius: 0.3rem;
+  cursor: pointer;
+  transition: all ease 0.2s;
+}
+
+.button:hover {
+  scale: 103%;
+}
+
+.secondary_button{
+    color: whitesmoke;
+    background-color: rgb(42, 107, 226);
+}
