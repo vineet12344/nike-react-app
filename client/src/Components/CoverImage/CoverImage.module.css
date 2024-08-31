@@ -1,0 +1,11 @@
+.cover_image {
+  padding: 2rem;
+}
+
+.cover_image img {
+  object-fit: cover;
+  max-width: 100%;
+  max-height: none;
+  border-radius: 0.4rem;
+  box-shadow: 5px 1px 20px 6px gray;
+}

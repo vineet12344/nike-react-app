@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Alison SkyBlue",
+    "type": "sports",
+    "size": [5, 6, 7, 8, 9, 10, 11],
+    "price": 2599,
+    "img": "/images/BlueShoe.png",
+    "title": "Nike Sports Gear 2",
+    "description": "Lorem ipsum dolor sit , possimus nemo facilis deserunt quidem sint! Hic quis facere a dolor earum modi esse porro aspernatur ducimus?"
+  },
+  {
+    "id": 2,
+    "name": "Ruby Red",
+    "type": "sports",
+    "size": [5, 6, 7, 8, 9, 10, 11],
+    "price": 1999,
+    "img": "/images/RedShoe.png",
+    "title": "Nike Sports Gear ruby",
+    "description": "Lorem ipsum dolor sit , possimus nemo facilis deserunt quidem sint! Hic quis facere a dolor earum modi esse porro aspernatur ducimus?"
+  },
+  {
+    "id": 3,
+    "name": "Nike SmokeWhite",
+    "type": "casual",
+    "size": [7, 8, 9, 10, 11],
+    "price": 1599,
+    "img": "/images/Nike_fly_wire.png",
+    "title": "Nike Casual White",
+    "description": "Lorem ipsum dolor sit , possimus nemo facilis deserunt quidem sint! Hic quis facere a dolor earum modi esse porro aspernatur ducimus?"
+  },
+  {
+    "id": 4,
+    "name": "Nike DarkBlue",
+    "type": "casual",
+    "size": [9, 10, 11],
+    "price": 1299,
+    "img": "/images/nike_colorful.png",
+    "title": "Nike Aria",
+    "description": "Lorem ipsum dolor sit , possimus nemo facilis deserunt quidem sint! Hic quis facere a dolor earum modi esse porro aspernatur ducimus?"
+  },
+  {
+    "id": 5,
+    "name": "Nike Boxer",
+    "type": "fancy",
+    "size": [5, 6, 7, 8, 9],
+    "price": 1799,
+    "img": "/images/nike_skate_green.png",
+    "title": "Nike Fancy Boxer",
+    "description": "Lorem ipsum dolor sit , possimus nemo facilis deserunt quidem sint! Hic quis facere a dolor earum modi esse porro aspernatur ducimus?"
+  }
+]
